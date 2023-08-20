@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/manim/project/media/videos/Goclg/1080p60/partial_movie_files/PlotParametricFunction/1413466013_2031034753_2829580476.mp4'
+file 'file:D:/manim/project/media/videos/Goclg/1080p60/partial_movie_files/PlotParametricFunction/1672018281_345352296_1242325459.mp4'
+file 'file:D:/manim/project/media/videos/Goclg/1080p60/partial_movie_files/PlotParametricFunction/1672018281_3546857875_2737699829.mp4'
